@@ -5,7 +5,7 @@ date:   2016-09-16 15:00:00 -0400
 categories: software development
 ---
 #### Step By Step Path to Becoming a Great Software Developer
-* ##### Author: [John Sonmez](https://simpleprogrammer.com/author/jsonmez/). Original article from  [simpleprogrammer.com](https://simpleprogrammer.com/2014/06/30/step-step-path-becoming-great-software-developer/) *
+##### *Author: [John Sonmez](https://simpleprogrammer.com/author/jsonmez/). Original article from  [simpleprogrammer.com](https://simpleprogrammer.com/2014/06/30/step-step-path-becoming-great-software-developer/)*
 
 I get quite a few emails that basically say “how do I become a good / great software developer?”
 These kinds of emails generally tick me off, because I feel like when you ask this kind of question, you are looking for some magical potion you can take that will suddenly make you into a super developer.
