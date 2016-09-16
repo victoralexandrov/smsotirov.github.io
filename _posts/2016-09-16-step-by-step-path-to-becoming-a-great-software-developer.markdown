@@ -16,7 +16,8 @@ On the other hand, I think there are some genuinely sincere developers that just
 I thought I would make an attempt, from my experience and the best of my knowledge, to offer up that step-by-step guide.
 Now, of course, I realize that there is no magical formula and that there are multiple paths to success, but I think what follows is a reasonable outline of steps someone starting out could take to reach a pretty high level of proficiency and be generally regarded as a good–perhaps even great–developer.
 
-####Step 1:Pick one language, learn the basics.
+Step 1:Pick one language, learn the basics.
+----
 Before we can run, we have to learn to walk. You walk by learning how to program in a single programming language. You don’t learn to walk by trying to learn 50 million things all at once and spreading yourself way too thin.  
 Too many beginning programmers try and jump into everything all at once and don’t have the patience to learn a single programming language before moving forward. They think that they have to know all the hot new technologies in order to get a programming job. While it is true that you need to know more than just the basics of a single programming language, you have to start here, so you might as well focus.  
 Pick a single programming language that you think you would be likely to base your career around. The programming language itself doesn’t matter all that much, since you should be thinking for the long term here. What I mean is you shouldn’t try and learn an “easy” programming language to start. Just learn whatever language you are interested in and could see yourself programming in for the next few years. You want to pick something that will have some lasting value.  
